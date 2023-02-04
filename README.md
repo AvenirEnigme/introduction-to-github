@@ -5,9 +5,9 @@
   Add your open source license, GitHub uses Creative Commons Attribution 4.0 International.
 -->
 
-# Introduction to GitHub
+# New to Github and discover digital humanity
 
-_Get started using GitHub in less than an hour._
+_some Basics for Githubs._
 
 <!-- 
   <<< Author notes: Start of the course >>> 
